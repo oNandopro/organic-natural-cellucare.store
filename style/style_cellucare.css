@@ -73,10 +73,11 @@ main {
     justify-content: center;
     align-items: center;
     padding: 30px;
-    width: 50%;
+    width: 30%;
     height: auto;
     background-color: #d4d4d4d7 ;
     color: black;
+    border-radius: 20px;
 }
 .img_bottle {
     display: flex;
@@ -98,9 +99,9 @@ p {
 }
 .button button {
     padding: 15px 35px;
-    background-color:  #FFBF00;
+    background-color:  #D72825;
     font-weight: 300;
-    color: black;
+    color: white;
     border: none;
     border-radius: 5px;
     cursor: pointer;
